@@ -1,5 +1,5 @@
 3:"$Sreact.fragment"
-4:"/_next/static/chunks/1i1cqpabl8xs3.js"
+4:"/nuvon-homepage.deploy/_next/static/chunks/1i1cqpabl8xs3.js"
 5:I[80331,["$4"],"default"]
 6:I[60405,["$4"],"default"]
 d:I[24849,["$4"],"OutletBoundary"]
@@ -16,7 +16,7 @@ c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$",
 a:[["children",{"s":"financial-ai","h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
 2:[["children",{"s":"solutions","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["fonts"]},"h":65584,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NUVON LABS"}],["$","meta","1",{"name":"description","content":"NUVON LABS official website"}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.0c8hk8pn1308n.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"AcuKtRxwl2aPcVI0S6xWv"}
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NUVON LABS"}],["$","meta","1",{"name":"description","content":"NUVON LABS official website"}],["$","link","2",{"rel":"icon","href":"/nuvon-homepage.deploy/icon.svg?icon.0c8hk8pn1308n.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"We_WuWCNiseuGyCnJMqTK"}
 f:null
 18:true
 9:300
