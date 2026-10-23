@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/1nern8czw48kp.css","style"]
-:HL["/_next/static/chunks/3ov228pqcqr2g.css","style"]
+:HL["/_next/static/chunks/346zhextj0f04.css","style"]
+:HL["/_next/static/chunks/3eoyg7aa4qrs2.css","style"]
 :HL["/_next/static/media/PretendardVariable-s.p.0ztvx5mb7lxp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"financial-ai","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"solutions","h":64,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"ko","s":["fonts"]},"h":65584,"c":"$Q2"}]]
-0:{"b":"LxIWLdpVfyjjcFh_zLqH9","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"W8JpKdTJIaXtAT2o02YHv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
