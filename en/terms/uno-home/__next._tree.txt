@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/346zhextj0f04.css","style"]
+:HL["/_next/static/chunks/1zr6509c7-99u.css","style"]
+:HL["/_next/static/media/PretendardVariable-s.p.0ztvx5mb7lxp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"document","t":"d","k":"uno-home","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"terms","h":131136,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["fonts"]},"h":196656,"c":"$Q2"}]]
+0:{"b":"-a9uXNX4HVXvp5qTZdEmf","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

@@ -120,4 +120,24 @@
 <xhtml:link rel="alternate" hreflang="ko" href="https://nuvonlabs.ai/ko/solutions/medical-marketing" />
 <xhtml:link rel="alternate" hreflang="en" href="https://nuvonlabs.ai/en/solutions/medical-marketing" />
 </url>
+<url>
+<loc>https://nuvonlabs.ai/ko/terms</loc>
+<xhtml:link rel="alternate" hreflang="ko" href="https://nuvonlabs.ai/ko/terms" />
+<xhtml:link rel="alternate" hreflang="en" href="https://nuvonlabs.ai/en/terms" />
+</url>
+<url>
+<loc>https://nuvonlabs.ai/en/terms</loc>
+<xhtml:link rel="alternate" hreflang="ko" href="https://nuvonlabs.ai/ko/terms" />
+<xhtml:link rel="alternate" hreflang="en" href="https://nuvonlabs.ai/en/terms" />
+</url>
+<url>
+<loc>https://nuvonlabs.ai/ko/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ko" href="https://nuvonlabs.ai/ko/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://nuvonlabs.ai/en/privacy" />
+</url>
+<url>
+<loc>https://nuvonlabs.ai/en/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ko" href="https://nuvonlabs.ai/ko/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="https://nuvonlabs.ai/en/privacy" />
+</url>
 </urlset>
